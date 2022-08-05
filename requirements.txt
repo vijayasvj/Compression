@@ -1,1 +1,8 @@
+# Automatically generated PIP requirements
+numpy
+requests
+Pillow
+pyzmq
+streamlit
+streamlit_lottie
 opencv-python
