@@ -7,3 +7,4 @@ streamlit
 streamlit_lottie
 opencv-python
 tkinter
+python-tk
