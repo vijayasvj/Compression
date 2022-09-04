@@ -6,3 +6,4 @@ pyzmq
 streamlit
 streamlit_lottie
 opencv-python
+tkinter
