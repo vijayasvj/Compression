@@ -1,5 +1,6 @@
 # Automatically generated PIP requirements
 numpy
+streamlit_lottie
 requests
 Pillow
 pyzmq
@@ -7,4 +8,4 @@ streamlit
 opencv-python
 tkinter
 python-tk
-streamlit_lottie
+
