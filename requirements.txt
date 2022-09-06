@@ -4,7 +4,7 @@ requests
 Pillow
 pyzmq
 streamlit
-streamlit_lottie
 opencv-python
 tkinter
 python-tk
+streamlit_lottie
