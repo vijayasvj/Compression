@@ -1,6 +1,5 @@
-# Automatically generated PIP requirements
 numpy
-streamlit-lottie
+streamlit_lottie
 requests
 Pillow
 pyzmq
