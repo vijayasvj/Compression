@@ -7,8 +7,6 @@ import io
 import cv2
 import numpy as np
 from io import BytesIO
-from tkinter import Tk
-from tkinter.filedialog import askopenfilename
 
 from zmq import NULL
 
