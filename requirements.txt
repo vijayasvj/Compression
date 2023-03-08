@@ -4,6 +4,5 @@ requests
 Pillow
 streamlit
 opencv-python
-tkinter
-python-tk
+tk
 
