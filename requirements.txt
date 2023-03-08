@@ -2,9 +2,8 @@ numpy
 streamlit_lottie
 requests
 Pillow
-pyzmq
 streamlit
-opencv
+opencv-python
 tkinter
 python-tk
 
